@@ -1,0 +1,30 @@
+{
+  "slide-canvas": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/slide-canvas.6977e37ff552.js",
+    "integrity": "sha384-K9WpO3axsrbnMAVmm/1hz/SjdDAYf0NNcxBOqn6+Yx10ajKHDlFcMjO4k9uGhxQh"
+  },
+  "pitch-slides-overview": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/pitch-slides-overview.9b36e2fc1268.js",
+    "integrity": "sha384-+P33C015w+/BLKI6er6EyXJJmh1xW8nNRWf0ZJa1eSy4rybysIbj7bLbKkmQuU2e"
+  },
+  "standard-texts-table": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/standard-texts-table.d22975c54c92.js",
+    "integrity": "sha384-r/UX7mysbuevu3Qzt9tEAyhguQYk8KcvNQOXtiDABXoVwkK/upJj4l5NS0OhT3kI"
+  },
+  "templates-table": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/templates-table.0f91157272a0.js",
+    "integrity": "sha384-zXLSKwDKWq+9d938BIuFS9uNIfb/IAIFWzcikkHU9bsnaB7JS9LZwsNIoqvd0o2z"
+  },
+  "import-template-modal": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/import-template-modal.c378d11ac779.js",
+    "integrity": "sha384-y7xcZeToigLVE3dihU3jJbgjkWwRoR5OpkzNWaoOtEBm9YpFjp0KaqG1WbcuJVL+"
+  },
+  "template-editor": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/template-editor.779322bb4cc4.js",
+    "integrity": "sha384-MVIEioxAa7ARonMQuSg4jOgdSNzTeRBolNqeGdcUuLWduDVgz17JrvsQKRcgq3jv"
+  },
+  "slide-editor": {
+    "url": "https://opensourcekitbuilder.github.io/components/v1.0.0/slide-editor.ad63d20b3d5a.js",
+    "integrity": "sha384-P1qCdUa6bIJl9E4wANRcYtR5XVKCIXfWb9RbfUyPZVLrar8lt8zJ9+tRR3s01V01"
+  }
+}
