@@ -1,18 +1,17 @@
 # components
 
-Runtime component bundles for the KLERQ presentation builder, licensed by Gateway Corp.
+Licensed runtime component bundles, loaded by a host application at runtime.
 Served with GitHub Pages at https://opensourcekitbuilder.github.io/components/.
 
-The bundles do nothing on their own: the KLERQ loader runs one only after a valid licence reply
-signed by Gateway Corp's licence server, and only if its bytes match the SHA-384 fingerprint in the
-licence manifest.
+The bundles do nothing on their own: the loader runs one only after a valid, signed licence reply,
+and only if its bytes match the SHA-384 fingerprint in the licence manifest.
 
 ## Rules
 
 - **Released folders are never changed or deleted.** A changed file no longer matches its fingerprint
   and is rejected by every browser. Ship a fix as a new version folder.
 - Releasing: add `v<next>/`, push, wait for Pages to deploy, check the URLs load, then paste
-  `v<next>/manifest.json` into the licence server's admin (Licences → klerq → Manifest).
+  `v<next>/manifest.json` into the licence server's admin (Licences → the licensee → Manifest).
 - Rolling back: paste an older version's `manifest.json` into the admin. No upload needed.
 
 ## Versions
